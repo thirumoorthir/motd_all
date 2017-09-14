@@ -89,6 +89,7 @@ Policyfile.lock.json
 
 # Cookbooks #
 #############
+.delivery
 CONTRIBUTING*
 CHANGELOG*
 TESTING*
